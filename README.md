@@ -9,8 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/@kaleab-mengist-05754a230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@kaleab-mengist-05754a230/" height="30" width="40" /></a>
-<a href="https://instagram.com/@benjiii400" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@benjiii400" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kaleab-mengist-05754a230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaleab-mengist-05754a230" height="30" width="40" /></a>
+<a href="https://instagram.com/benjiii400" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="benjiii400" height="30" width="40" /></a>
 <a href="https://medium.com/@benjiyg400" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@benjiyg400" height="30" width="40" /></a>
 </p>
 
